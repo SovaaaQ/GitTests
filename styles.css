@@ -10,3 +10,8 @@ h1{
     color: pink;
     text-transform: uppercase;
 }
+
+.link{
+    color: white;
+    text-decoration: none;
+}
