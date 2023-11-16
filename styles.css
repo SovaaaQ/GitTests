@@ -5,3 +5,8 @@ body{
 .text{
     color: white;
 }
+
+.link{
+    color: white;
+    text-decoration: none;
+}
