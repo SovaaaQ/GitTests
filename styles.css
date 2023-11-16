@@ -1,7 +1,12 @@
 body{
-    background-color: blue;
+    background-color: brown;
 }
 
 .text{
     color: white;
+}
+
+h1{
+    color: pink;
+    text-transform: uppercase;
 }
